@@ -1,0 +1,12 @@
+#hello{
+    font-size:40px;
+    background-color:yellow;
+    border:2px solid red;
+
+}
+
+.new-hello{
+    text-align:center;
+    padding:0 0 3px 0;
+    border: 1px soild black;
+}
