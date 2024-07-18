@@ -1,0 +1,21 @@
+*{
+    font-family:sans-serif;
+}
+
+p{
+    color:red;
+    background:aqua;
+}
+
+#para{
+    background-color:white;
+}
+
+.paragraph{
+    background-color:yellow;
+    color:black;
+}
+
+h1, h2{
+    color:aqua;
+}
