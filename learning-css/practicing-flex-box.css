@@ -1,0 +1,27 @@
+.flex-container{
+    height:45vh;
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    flex-wrap: wrap;
+    border: 8px solid black;
+    align-content: center;
+    justify-content: center;
+    
+
+}
+
+.flex-item{
+    width:100px;
+    height: 100px;
+    background-color:brown;
+    border:5px solid black;
+    margin:5px;
+}
+
+.item-1{
+    /* align-self: center; */
+    /* flex-grow: 2; */
+    flex-shrink: 1;
+}
