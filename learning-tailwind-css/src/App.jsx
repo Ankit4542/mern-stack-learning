@@ -5,9 +5,9 @@ function App() {
   return(
     <>
     <div className="bg-amber-50">
-      <Header />
-      <Body />
-      <Footer />
+      <Header/>
+      <Body/>
+      <Footer/>
     </div>
     </>
   )
